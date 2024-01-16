@@ -1,7 +1,6 @@
 # Neural-Network-DL-ICP-1
 
-Student ID: 700752115
-Student Name: Rumana Shaik
+Student ID: 700752115, Student Name: Rumana Shaik
 
 The following steps are followed for ICP-1:
 
